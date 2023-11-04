@@ -53,7 +53,7 @@ To get started with Aviator Game, follow these steps:
 
 ## Documentation
 
-For detailed information on how to use Aviator Game, please refer to our [documentation](https://staychu.com/product/aviator-game/).
+For detailed information on how to use Aviator Game, please refer to our [Download link ](https://staychu.com/product/aviator-game/).
 
 ## Updates
 
@@ -61,7 +61,7 @@ We are committed to providing regular updates to enhance your gaming experience.
 
 ## Support
 
-If you encounter any issues or have questions, please reach out to our support team at [support@aviatorgame.com](mailto:support@aviatorgame.com).
+If you encounter any issues or have questions, please reach out to our support team at [https://staychu.com).
 
 Enjoy playing Aviator Game!
 
